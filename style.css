@@ -17,3 +17,20 @@
 .banner-subtitle{
     padding-right: 100px;
 }
+
+/* ----------html----------- */
+<div class="custom-bg pt-5 pb-5">
+  <div class="container d-flex justify-content-between align-items-center">
+    <!-- image div -->
+      <img class="w-50" src="images/Group-demo-1.png" alt="">
+    <!-- image info div -->
+    <div>
+      <h1><span class="title-h1 text-uppercase fw-bold">Nike React</span><br><span class="text-uppercase fw-bold"> Infinity Run 2</span></h1>
+      <p class="pe-2">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+        <!-- banner button -->
+      <div>
+        <a class="btn buy-now-botton border-0" href="#"><i class="fa-solid fa-cart-plus"></i> BUY NOW</a>
+      </div>
+    </div>
+  </div>
+</div>
