@@ -12,10 +12,15 @@
     background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
     border-radius: 10px;
     color: white;
-    margin-top: 10px;
+    margin-top: 6px;
 }
 .banner-subtitle{
     padding-right: 100px;
+}
+.find-icon{
+  width: 80px;
+  height: 80px;
+  padding-bottom: 10px;
 }
 
 /* ----------html----------- */
