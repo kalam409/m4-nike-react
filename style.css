@@ -1,0 +1,19 @@
+/* Custom-css */
+.custom-full-body{
+    background-color: #E5E5E5;
+}
+.custom-bg{
+    background-color: #FFF9F4;
+}
+.title-h1{
+    color: #FA804C;
+}
+.buy-now-botton{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    color: white;
+    margin-top: 10px;
+}
+.banner-subtitle{
+    padding-right: 100px;
+}
